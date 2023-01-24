@@ -1,4 +1,4 @@
-# An Object-Oriented Programming Primer
+# An Object-Oriented Programming PHP Primer
 
 Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
 
