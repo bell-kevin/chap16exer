@@ -1,4 +1,10 @@
-# 
+# An Object-Oriented Programming Primer
+
+Textbook: PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
+Read Chapter 16 of your textbook, completing each exercise.  
+
+Submission: Please take and submit .png screenshots showing your working code running in a browser, and your source code for 16.1, 16.2, 16.3, 16.4, and 16.5; place all files in a .zip file.
 
 
 == We're Using GitHub Under Protest ==
