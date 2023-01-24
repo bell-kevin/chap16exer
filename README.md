@@ -6,6 +6,24 @@ Read Chapter 16 of your textbook, completing each exercise.
 
 Submission: Please take and submit .png screenshots showing your working code running in a browser, and your source code for 16.1, 16.2, 16.3, 16.4, and 16.5; place all files in a .zip file.
 
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.1.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.2.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.3.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.4%20message%20posted.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.4.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.5%20bad%20output.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.5%20bad.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.5%20correct.PNG)
+
+![p](https://github.com/bell-kevin/chap16exer/blob/main/chap16exer/screenshots/16.5.PNG)
+
 
 == We're Using GitHub Under Protest ==
 
